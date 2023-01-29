@@ -2,10 +2,14 @@
 
 ## 接口
 
-https://v6.ip123.xyz/acc/?encode=js
+https://lunarcn.top/acc
 
 使用方法请自己看源码
 
 ## 使用
 
 [点击此处](https://acc.zzxclient.eu.org)
+
+## 支持我们
+
+找2834886052可以购买收费小号机, 更多小号/更快补卡
