@@ -2,7 +2,7 @@
 
 ## 接口
 
-https://lunarcn.top/acc
+https://lunarcn.top/acc/?encode=js
 
 使用方法请自己看源码
 
