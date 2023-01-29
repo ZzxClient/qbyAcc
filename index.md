@@ -10,4 +10,6 @@
 
 > 可以自己二次制作, 但是不允许收费而且还得标明此页面的地址!
 
-https://lunarcn.top/acc/?encode=js
+获取小号: https://lunarcn.top/acc/?encode=js
+
+库存: https://lunarcn.top/acc/value.php?encode=js
